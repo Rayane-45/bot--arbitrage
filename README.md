@@ -65,6 +65,9 @@ As we aim to provide a simple and easy-to-use library, we have also included a s
 > WALLET_PRIVATE_KEY="..."
 > ```
 
+### Contact 
+If you want to contact me click on my [Linkediln](https://www.linkedin.com/in/rayane-saadallah-5a42a5254/).
+
 ### Gallery
 
 <img src="https://github.com/clementroure/Arbitrage-Bot/assets/13381610/8f6387c4-d643-453b-9a3e-e1a07f4506ef">
